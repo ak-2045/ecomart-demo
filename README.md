@@ -17,8 +17,3 @@ A demo of a sustainability-first e-commerce platform. EcoMart makes conscious sh
 - **Mock Data**: JSON
 
 ---
-
-## 📄 License
-
-MIT License  
-(c) 2025 Akmal Hossain
