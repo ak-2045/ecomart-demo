@@ -2,8 +2,7 @@
 
 A demo of a sustainability-first e-commerce platform. EcoMart makes conscious shopping simple by showing eco-friendly alternatives, GreenScore ratings, and carbon-saving choices — all while keeping the experience fast, clean, and familiar.
 
-**Live Demo**: [https://ecomart-demo.netlify.app ](https://ecomart-demo.netlify.app)
-
+**Live Demo**: [https://ecomart-demo.netlify.app ](https://ecomart-demo.netlify.app) <br>
 **Built by**: Akmal Hossain, Srishant Kumar
 
 ---
